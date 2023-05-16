@@ -1,3 +1,2 @@
-Paul Ifeanyi
-Frontend Web development Meta
-
+Paul Ifeanyi 
+Front end Meta Certification
